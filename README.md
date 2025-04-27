@@ -45,13 +45,4 @@
     ```
 4.  Open your browser and navigate to `http://localhost:3000`.
 
-## Further Improvements
 
-* **API Integration:** Connect the front-end to a real-time trading API to fetch and manage actual order data.
-* **Advanced Filtering and Sorting:** Implement more sophisticated filtering options (by product, side, status, etc.) and sorting capabilities for the order list.
-* **Real-time Updates:** Use WebSockets or a similar technology to provide real-time updates to the order list.
-* **Order Modification/Cancellation:** Implement the functionality for modifying and canceling individual orders.
-* **User Authentication:** Add user authentication and authorization.
-* **Error Handling:** Implement robust error handling for API requests and user interactions.
-* **Testing:** Write unit and integration tests to ensure the reliability of the application.
-* **UI/UX Refinements:** Continuously iterate on the UI/UX based on user feedback and best practices.
