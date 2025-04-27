@@ -3,6 +3,7 @@
 ├── components/
 
 │   └── MobileSidebar.tsx      // Mobile navigation sidebar component
+
 ├── pages/
 
 │   └── index.tsx    // Main page component
@@ -12,6 +13,7 @@
 │   └── image.png              // Placeholder logo image
 
 ├── styles/
+
 │   └── globals.css            // Global styles (Tailwind CSS import)
 
 ├── tailwind.config.js         // Tailwind CSS configuration
