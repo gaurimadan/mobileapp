@@ -13,7 +13,6 @@
     * Client ID selection dropdown.
 * **Order Actions:** A placeholder for order-specific actions (e.g., modify, cancel) represented by a "More Vertical" icon.
 * **Download Option:** A button to download the open orders data.
-* **"Cancel All" Functionality:** A button to trigger the cancellation of all open orders (currently logs to the console).
 * **Pagination:** Implemented for handling a large number of orders, with "Previous," "Next," and page number buttons, along with an indicator of the current range of orders being viewed.
 
 ## Technologies Used
