@@ -1,8 +1,10 @@
 ## Project Structure
 
 ├── components/
+
 │   └── MobileSidebar.tsx      // Mobile navigation sidebar component
 ├── pages/
+
 │   └── index.tsx              // Main page component
 ├── public/
 │   └── image.png              // Placeholder logo image
