@@ -2,23 +2,23 @@
 
 ├── components/
 
-│   └── MobileSidebar.tsx      // Mobile navigation sidebar component
+│   └── MobileSidebar.tsx     
 
 ├── pages/
 
-│   └── index.tsx    // Main page component
+│   └── index.tsx   
 
 ├── public/
 
-│   └── image.png              // Placeholder logo image
+│   └── image.png             
 
 ├── styles/
 
-│   └── globals.css            // Global styles (Tailwind CSS import)
+│   └── globals.css          
 
-├── tailwind.config.js         // Tailwind CSS configuration
+├── tailwind.config.js       
 
-├── postcss.config.js          // PostCSS configuration
+├── postcss.config.js        
 
 ├── package-lock.json
 
